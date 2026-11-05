@@ -1,6 +1,7 @@
 # Boston Housing Price Prediction 
 
 A end-to-end Machine Learning pipeline implemented in Jupyter Notebook (Boston_Housing.ipynb) demonstrating data preprocessing, feature scaling, model training, and performance evaluation on the classic Boston Housing dataset.  
+
 📌 Overview
 The objective of this project is to build and evaluate multiple regression models to predict the median value of owner-occupied homes (MEDV) in $1,000s.   
 🛠️ Project Structure & Workflow
