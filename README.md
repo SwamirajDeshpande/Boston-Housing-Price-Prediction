@@ -7,7 +7,9 @@ The objective of this project is to build and evaluate multiple regression model
 
 🛠️ Project Structure & Workflow
 Data Ingestion & Inspection: Loading the dataset (housingData.csv) and examining missing values.   
+
 Data Cleaning: Imputing missing values using feature-wise mean values (fillna(boston.mean())).   
+
 Data Splitting: Splitting features (X) and target (y) into 80% training and 20% testing sets (random_state=42).  
 Feature Scaling: Standardizing input features using Scikit-Learn's StandardScaler.   
 Model Evaluation: Training Linear Regression, KNN, Decision Tree, and Random Forest models using $R^2$ Score and Mean Squared Error (MSE).   
