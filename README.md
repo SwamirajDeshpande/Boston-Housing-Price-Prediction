@@ -43,13 +43,3 @@ Ensure you have Python installed along with the required scientific computing an
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 
-## Running the Notebook
-1. Clone the repository or download the project files.
-
-2. Place your dataset file (housingData.csv) in the root directory[cite: 1].
-
-3. Launch Jupyter Notebook:
-   ```bash
-jupyter notebook Boston_Housing.ipynb
-
-4. Execute all notebook cells sequentially to reproduce the end-to-end results.
