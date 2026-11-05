@@ -4,6 +4,7 @@ A end-to-end Machine Learning pipeline implemented in Jupyter Notebook (Boston_H
 
 📌 Overview
 The objective of this project is to build and evaluate multiple regression models to predict the median value of owner-occupied homes (MEDV) in $1,000s.   
+
 🛠️ Project Structure & Workflow
 Data Ingestion & Inspection: Loading the dataset (housingData.csv) and examining missing values.   
 Data Cleaning: Imputing missing values using feature-wise mean values (fillna(boston.mean())).   
