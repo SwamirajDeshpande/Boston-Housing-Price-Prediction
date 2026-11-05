@@ -50,6 +50,6 @@ pip install numpy pandas matplotlib scikit-learn
 
 3. Launch Jupyter Notebook:
    ```bash
-jupyter notebook Boston_Housing.ipynb
-``` 
-4. Execute all notebook cells sequentially to reproduce the end-to-end results.
+jupyter notebook Boston_Housing.ipynb 
+
+
