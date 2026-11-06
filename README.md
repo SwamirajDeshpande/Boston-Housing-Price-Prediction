@@ -1,6 +1,6 @@
 # 🏡 Boston Housing Price Prediction
 
-A Machine Learning project that predicts the median value of houses in Boston using various housing and neighborhood-related features. This project demonstrates the complete workflow of a regression-based Machine Learning application, including data preprocessing, exploratory data analysis, model training, evaluation, and price prediction.
+A Machine Learning project that predicts the median value of houses in Boston(city in USA) using various housing and neighborhood-related features. This project demonstrates the complete workflow of a regression-based Machine Learning application, including data preprocessing, exploratory data analysis, model training, evaluation, and price prediction.
 
 ## 📌 Project Overview
 
