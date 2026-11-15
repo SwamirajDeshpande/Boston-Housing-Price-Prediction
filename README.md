@@ -162,7 +162,7 @@ python src/train.py
 
 **Swamiraj Deshpande**
 
-B.Tech Computer Science Engineering (AI & ML)
+Second-year B.Tech Computer Science Engineering (AI & ML)
 
 Vishwakarma Institute of Technology, Pune
 
